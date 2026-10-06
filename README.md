@@ -105,7 +105,7 @@ I build and maintain projects around the Xaneo ecosystem:
 
 ## 📫 Contact
 
-- Telegram: **[your new username](https://t.me/alexaneodev)**
+- Telegram: **[alexaneodev](https://t.me/alexaneodev)**
 - Telegram channel: **[xaneodev](https://t.me/xaneodev)**
 - GitHub: **[saneome](https://github.com/saneome)**
 
